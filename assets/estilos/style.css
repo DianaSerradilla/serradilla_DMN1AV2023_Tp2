@@ -566,13 +566,11 @@ ul li {
 
 .section-productoIndex {
   width: 100%;
-  background-color: red;
   background: linear-gradient(rgba(35, 33, 33, 0.8), rgba(35, 33, 33, 0.8)),
     url("../img/section-productos.png") no-repeat center center;
   background-size: cover;
   height: 400px;
   margin-top: 230px;
-
   position: relative;
 }
 
@@ -609,7 +607,7 @@ ul li {
   font-style: normal;
   font-weight: 400;
   font-size: 35px;
-  line-height: 40x;
+  line-height: 40px;
   margin-top: 20px;
   color: #ffffff;
 }
