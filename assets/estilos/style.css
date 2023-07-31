@@ -33,30 +33,33 @@ ul li {
   color: #ffffff;
 }
 
-/* -------------------------Cabecera completa comienzo */
 #cabeceraIndex {
-  background: linear-gradient(rgba(14, 24, 16, 0.6), rgba(14, 24, 16, 0.6)),
+  background:
+    linear-gradient(rgba(14, 24, 16, 0.6), rgba(14, 24, 16, 0.6)),
     url("../img/bg-index.png") no-repeat center center;
   background-size: cover;
   height: 800px;
 }
 
 #cabeceraNosotros {
-  background: linear-gradient(rgba(14, 24, 16, 0.6), rgba(14, 24, 16, 0.6)),
+  background:
+    linear-gradient(rgba(14, 24, 16, 0.6), rgba(14, 24, 16, 0.6)),
     url("../img/bg-nosotros.png") no-repeat center center;
   background-size: cover;
   height: 400px;
 }
 
 #cabeceraCatalogo {
-  background: linear-gradient(rgba(14, 24, 16, 0.6), rgba(14, 24, 16, 0.6)),
+  background:
+    linear-gradient(rgba(14, 24, 16, 0.6), rgba(14, 24, 16, 0.6)),
     url("../img/bg-catalogo.png") no-repeat center center;
   background-size: cover;
   height: 400px;
 }
 
 #cabeceraContacto {
-  background: linear-gradient(rgba(14, 24, 16, 0.6), rgba(14, 24, 16, 0.6)),
+  background:
+    linear-gradient(rgba(14, 24, 16, 0.6), rgba(14, 24, 16, 0.6)),
     url("../img/bg-contacto.png") no-repeat center center;
   background-size: cover;
   height: 400px;
@@ -171,7 +174,6 @@ ul li {
 }
 
 .ul-redes li {
-  /* margin-top: 10px; */
   padding: 10px;
   border-radius: 10px;
   -webkit-border-radius: 10px;
@@ -244,10 +246,6 @@ ul li {
 .contenedor-idioma a img {
   width: 30px;
 }
-/* -------------------------Cabecera completa final */
-/* ----------------------------------------------------------------- */
-
-/* -------------------------Main comienzo */
 
 .main-general {
   background-image: url("../img/bg-2.png");
@@ -256,7 +254,6 @@ ul li {
   background-size: cover;
 }
 
-/* -------------------------Section info marca comienzo */
 .section-infoGeneral {
   position: relative;
 }
@@ -348,20 +345,40 @@ ul li {
   border: 1px solid #243e2a;
   color: #243e2a;
   margin-top: 10px;
-  transition: background-color 0.5s ease, color 0.5s ease;
-  -webkit-transition: background-color 0.5s ease, color 0.5s ease;
-  -moz-transition: background-color 0.5s ease, color 0.5s ease;
-  -ms-transition: background-color 0.5s ease, color 0.5s ease;
-  -o-transition: background-color 0.5s ease, color 0.5s ease;
+  transition:
+    background-color 0.5s ease,
+    color 0.5s ease;
+  -webkit-transition:
+    background-color 0.5s ease,
+    color 0.5s ease;
+  -moz-transition:
+    background-color 0.5s ease,
+    color 0.5s ease;
+  -ms-transition:
+    background-color 0.5s ease,
+    color 0.5s ease;
+  -o-transition:
+    background-color 0.5s ease,
+    color 0.5s ease;
 }
 
 .boton-VerMas svg {
   fill: #243e2a;
-  transition: background-color 0.5s ease, color 0.5s ease;
-  -webkit-transition: background-color 0.3s ease, color 0.3s ease;
-  -moz-transition: background-color 0.3s ease, color 0.3s ease;
-  -ms-transition: background-color 0.3s ease, color 0.3s ease;
-  -o-transition: background-color 0.3s ease, color 0.3s ease;
+  transition:
+    background-color 0.5s ease,
+    color 0.5s ease;
+  -webkit-transition:
+    background-color 0.3s ease,
+    color 0.3s ease;
+  -moz-transition:
+    background-color 0.3s ease,
+    color 0.3s ease;
+  -ms-transition:
+    background-color 0.3s ease,
+    color 0.3s ease;
+  -o-transition:
+    background-color 0.3s ease,
+    color 0.3s ease;
 }
 .boton-VerMas:hover {
   background-color: #243e2a;
@@ -384,7 +401,8 @@ ul li {
 #contenedor-camping {
   width: 445px;
   height: 200px;
-  background: linear-gradient(rgba(14, 24, 16, 0.3), rgba(14, 24, 16, 0.3)),
+  background:
+    linear-gradient(rgba(14, 24, 16, 0.3), rgba(14, 24, 16, 0.3)),
     url("../img/camping.png") no-repeat center center;
   background-size: cover;
   border-radius: 10px;
@@ -414,7 +432,8 @@ ul li {
   margin-top: 10px;
 }
 #contenedor-snow {
-  background: linear-gradient(rgba(14, 24, 16, 0.3), rgba(14, 24, 16, 0.3)),
+  background:
+    linear-gradient(rgba(14, 24, 16, 0.3), rgba(14, 24, 16, 0.3)),
     url("../img/snow.png") no-repeat center center;
   background-size: cover;
   border-radius: 10px;
@@ -438,7 +457,8 @@ ul li {
 }
 
 #contenedor-mbike {
-  background: linear-gradient(rgba(14, 24, 16, 0.3), rgba(14, 24, 16, 0.3)),
+  background:
+    linear-gradient(rgba(14, 24, 16, 0.3), rgba(14, 24, 16, 0.3)),
     url("../img/mbike.png") no-repeat center center;
   background-size: cover;
   border-radius: 10px;
@@ -461,7 +481,8 @@ ul li {
 }
 
 #contenedor-alpi {
-  background: linear-gradient(rgba(14, 24, 16, 0.3), rgba(14, 24, 16, 0.3)),
+  background:
+    linear-gradient(rgba(14, 24, 16, 0.3), rgba(14, 24, 16, 0.3)),
     url("../img/alpi.png") no-repeat center center;
   background-size: cover;
   border-radius: 10px;
@@ -485,7 +506,8 @@ ul li {
 }
 
 #contenedor-kayak {
-  background: linear-gradient(rgba(14, 24, 16, 0.3), rgba(14, 24, 16, 0.3)),
+  background:
+    linear-gradient(rgba(14, 24, 16, 0.3), rgba(14, 24, 16, 0.3)),
     url("../img/kayak.png") no-repeat center center;
   background-size: cover;
   border-radius: 10px;
@@ -514,7 +536,8 @@ ul li {
 #contenedor-trek {
   width: 215px;
   height: 455px;
-  background: linear-gradient(rgba(14, 24, 16, 0.3), rgba(14, 24, 16, 0.3)),
+  background:
+    linear-gradient(rgba(14, 24, 16, 0.3), rgba(14, 24, 16, 0.3)),
     url("../img/trek.png") no-repeat center center;
   background-size: cover;
   border-radius: 10px;
@@ -538,7 +561,8 @@ ul li {
 #contenedor-surf {
   width: 215px;
   height: 250px;
-  background: linear-gradient(rgba(14, 24, 16, 0.3), rgba(14, 24, 16, 0.3)),
+  background:
+    linear-gradient(rgba(14, 24, 16, 0.3), rgba(14, 24, 16, 0.3)),
     url("../img/surf.png") no-repeat center center;
   background-size: cover;
   border-radius: 10px;
@@ -560,13 +584,10 @@ ul li {
   font-size: 16px;
 }
 
-/* -------------------------Section info marca final */
-
-/* -------------------------Section info producto comienzo */
-
 .section-productoIndex {
   width: 100%;
-  background: linear-gradient(rgba(35, 33, 33, 0.8), rgba(35, 33, 33, 0.8)),
+  background:
+    linear-gradient(rgba(35, 33, 33, 0.8), rgba(35, 33, 33, 0.8)),
     url("../img/section-productos.png") no-repeat center center;
   background-size: cover;
   height: 400px;
@@ -626,7 +647,9 @@ ul li {
   border: 1px solid #ffffff;
   color: #ffffff;
   margin-top: 10px;
-  transition: background-color 0.5s ease, color 0.5s ease;
+  transition:
+    background-color 0.5s ease,
+    color 0.5s ease;
 }
 
 .boton-productoIndex:hover {
@@ -641,10 +664,6 @@ ul li {
 .path-productos {
   fill: #ffffff;
 }
-
-/* -------------------------Section info producto final */
-
-/* -------------------------Main info nosotros comienzo */
 
 #main-nosotros {
   padding-bottom: 30px;
@@ -720,8 +739,7 @@ ul li {
 #contenedor-parrafos3 {
   vertical-align: top;
 }
-/* -------------------------Main info nosotros final */
-/* -------------------------Catalogo comienzo */
+
 .contenedorTitulos-catalogo,
 .contenedorTitulos-catalogo h3,
 .contenedorTitulos-catalogo figure {
@@ -951,9 +969,6 @@ ul li {
 .contenedorInferior p {
   margin-top: 10px;
 }
-/* -------------------------Catalogo final */
-
-/* -------------------------Footer comienzo */
 
 #footer-index {
   margin-top: 150px;
@@ -1012,5 +1027,3 @@ ul li {
   margin-top: 20px;
   text-align: center;
 }
-
-/* -------------------------Footer final */

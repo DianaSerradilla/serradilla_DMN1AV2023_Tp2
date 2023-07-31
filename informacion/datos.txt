@@ -1,0 +1,11 @@
+Carrera: Diseño Multimedial
+Materia: Lógica de Programación
+Comisión: DMN1AV
+Turno: Noche
+Año: 2023
+Cuatrimestre : Primero (marzo - julio)
+Profesor: Florencia Coda
+Link:  serradilladmn1av2023tp2.netlify.app
+Carácter de entrega: final
+Nombre: Diana Alejandra Serradilla
+
